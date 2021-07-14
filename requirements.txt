@@ -2,4 +2,5 @@ jsonlines
 pandas
 dask
 glob2
-logging
+logging3
+argparse
