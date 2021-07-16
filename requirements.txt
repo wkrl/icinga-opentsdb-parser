@@ -4,3 +4,4 @@ dask
 glob2
 logging3
 argparse
+requests
